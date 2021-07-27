@@ -20,4 +20,11 @@ No repositório contém o arquivo DataAnalytics_test.ipynb que contém todas as 
 Depois de todos os passos do teste realizado envie o link para o contato do RH para que possa ser avaliado (rh@stitcloud.com).
 
 
+# Link para notebook no Colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fbwul72rmxv0CFSFR270Neb7-_GfBF5R?usp=sharing)
+
+
+# Link das Bases 
+
+https://drive.google.com/drive/folders/1wFABhi2YpSddC09kZxeN2DINcTqoRPhm?usp=sharing
